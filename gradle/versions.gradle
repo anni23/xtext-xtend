@@ -11,6 +11,7 @@ ext.versions = [
 	'jdtCore': '3.13.102',
 	'jdtCompilerApt': '1.3.110',
 	'jdtCompilerTool': '1.2.101',
+	'eclipseCore': '3.13.0',
 	'emfMwe2': '2.9.1.201705291010',
 	'emfEcore': '[2.10.2,3)',
 	'xpand': '2.0.0',
