@@ -16,7 +16,7 @@
 		<emfCodegen.version>2.11.0</emfCodegen.version>
 
 		<maven-install-version>2.5.1</maven-install-version>
-		<asm.version>6.1.1</asm.version>
+		<asm.version>6.2.1</asm.version>
 		<guava.version>[14.0,22)</guava.version>
 		<google-inject.version>3.0</google-inject.version>
 		<log4j.version>1.2.16</log4j.version>
@@ -256,15 +256,15 @@
 				</repository>
 				<repository>
 					<id>xtext-lib-from-jenkins</id>
-					<url>http://services.typefox.io/open-source/jenkins/job/xtext-lib/job/${branch_url_segment}/lastStableBuild/artifact/build/maven-repository/</url>
+					<url>http://services.typefox.io/open-source/jenkins/job/xtext-lib/job/cd_issue1266_asm62/lastStableBuild/artifact/build/maven-repository/</url>
 				</repository>
 				<repository>
 					<id>xtext-core-from-jenkins</id>
-					<url>http://services.typefox.io/open-source/jenkins/job/xtext-core/job/${branch_url_segment}/lastStableBuild/artifact/build/maven-repository/</url>
+					<url>http://services.typefox.io/open-source/jenkins/job/xtext-core/job/cd_issue1266_asm62/lastStableBuild/artifact/build/maven-repository/</url>
 				</repository>
 				<repository>
 					<id>xtext-extras-from-jenkins</id>
-					<url>http://services.typefox.io/open-source/jenkins/job/xtext-extras/job/${branch_url_segment}/lastStableBuild/artifact/build/maven-repository/</url>
+					<url>http://services.typefox.io/open-source/jenkins/job/xtext-extras/job/cd_issue1266_asm62/lastStableBuild/artifact/build/maven-repository/</url>
 				</repository>
 			</repositories>
 		</profile>
